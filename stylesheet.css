@@ -1,0 +1,12 @@
+.para{
+color: blue;
+}
+[name='abcd']{
+color: red;
+}
+button:hover{
+color: orange;
+}
+.testing-box{
+padding: 20px;
+}
